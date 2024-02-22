@@ -1,0 +1,19 @@
+C:\Users\vasil\Desktop\C#\BoxingWPFBrowserApp\Boxing Round Interval WPF Browser Application\bin\Debug\Boxing Round Interval WPF Browser Application.exe.manifest
+C:\Users\vasil\Desktop\C#\BoxingWPFBrowserApp\Boxing Round Interval WPF Browser Application\bin\Debug\Boxing Round Interval WPF Browser Application.xbap
+C:\Users\vasil\Desktop\C#\BoxingWPFBrowserApp\Boxing Round Interval WPF Browser Application\bin\Debug\Boxing Round Interval WPF Browser Application.exe
+C:\Users\vasil\Desktop\C#\BoxingWPFBrowserApp\Boxing Round Interval WPF Browser Application\bin\Debug\Boxing Round Interval WPF Browser Application.pdb
+C:\Users\vasil\Desktop\C#\BoxingWPFBrowserApp\Boxing Round Interval WPF Browser Application\obj\Debug\Boxing Round Interval WPF Browser Application.csproj.AssemblyReference.cache
+C:\Users\vasil\Desktop\C#\BoxingWPFBrowserApp\Boxing Round Interval WPF Browser Application\obj\Debug\Page1.g.cs
+C:\Users\vasil\Desktop\C#\BoxingWPFBrowserApp\Boxing Round Interval WPF Browser Application\obj\Debug\App.g.cs
+C:\Users\vasil\Desktop\C#\BoxingWPFBrowserApp\Boxing Round Interval WPF Browser Application\obj\Debug\Boxing Round Interval WPF Browser Application_MarkupCompile.cache
+C:\Users\vasil\Desktop\C#\BoxingWPFBrowserApp\Boxing Round Interval WPF Browser Application\obj\Debug\Boxing Round Interval WPF Browser Application_MarkupCompile.lref
+C:\Users\vasil\Desktop\C#\BoxingWPFBrowserApp\Boxing Round Interval WPF Browser Application\obj\Debug\Page1.baml
+C:\Users\vasil\Desktop\C#\BoxingWPFBrowserApp\Boxing Round Interval WPF Browser Application\obj\Debug\Boxing Round Interval WPF Browser Application.g.resources
+C:\Users\vasil\Desktop\C#\BoxingWPFBrowserApp\Boxing Round Interval WPF Browser Application\obj\Debug\Boxing_Round_Interval_WPF_Browser_Application.Properties.Resources.resources
+C:\Users\vasil\Desktop\C#\BoxingWPFBrowserApp\Boxing Round Interval WPF Browser Application\obj\Debug\Boxing Round Interval WPF Browser Application.csproj.GenerateResource.cache
+C:\Users\vasil\Desktop\C#\BoxingWPFBrowserApp\Boxing Round Interval WPF Browser Application\obj\Debug\Boxing Round Interval WPF Browser Application.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\C#\BoxingWPFBrowserApp\Boxing Round Interval WPF Browser Application\obj\Debug\Boxing Round Interval WPF Browser Application.TrustInfo.xml
+C:\Users\vasil\Desktop\C#\BoxingWPFBrowserApp\Boxing Round Interval WPF Browser Application\obj\Debug\Boxing Round Interval WPF Browser Application.exe.manifest
+C:\Users\vasil\Desktop\C#\BoxingWPFBrowserApp\Boxing Round Interval WPF Browser Application\obj\Debug\Boxing Round Interval WPF Browser Application.xbap
+C:\Users\vasil\Desktop\C#\BoxingWPFBrowserApp\Boxing Round Interval WPF Browser Application\obj\Debug\Boxing Round Interval WPF Browser Application.exe
+C:\Users\vasil\Desktop\C#\BoxingWPFBrowserApp\Boxing Round Interval WPF Browser Application\obj\Debug\Boxing Round Interval WPF Browser Application.pdb

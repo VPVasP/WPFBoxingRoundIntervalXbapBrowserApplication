@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Boxing Round Interval WPF Browser Application.exe" version="1.0.0.0" publicKeyToken="d1977468b3c5326e" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Boxing Round Interval WPF Browser Application" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Boxing Round Interval WPF Browser Application.exe" parameters="" />
+    <hostInBrowser xmlns="urn:schemas-microsoft-com:asm.v3" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="Internet" Description="Default rights given to Internet applications" ID="Custom" SameSite="site">
+          <IPermission version="1" class="System.Security.Permissions.FileDialogPermission, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Access="Open" />
+          <IPermission UserQuota="1024000" version="1" class="System.Security.Permissions.IsolatedStorageFilePermission, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Allowed="ApplicationIsolationByUser" />
+          <IPermission version="1" class="System.Security.Permissions.SecurityPermission, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Flags="Execution" />
+          <IPermission version="1" class="System.Security.Permissions.UIPermission, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Clipboard="OwnClipboard" Window="SafeTopLevelWindows" />
+          <IPermission version="1" class="System.Drawing.Printing.PrintingPermission, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" Level="SafePrinting" />
+          <IPermission version="1" class="System.Security.Permissions.MediaPermission, WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Audio="SafeAudio" Image="SafeImage" Video="SafeVideo" />
+          <IPermission version="1" class="System.Security.Permissions.WebBrowserPermission, WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Level="Safe" />
+        </PermissionSet>
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Boxing Round Interval WPF Browser Application.exe" size="21952">
+      <assemblyIdentity name="Boxing Round Interval WPF Browser Application" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>jmE4wzGzJb1vFUfSyfRKOZQT8XzGNUTc8xaa25ZMPtA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=DESKTOP-U4USUGC\vasil" issuerKeyHash="54d11cd64c9f8a45db9583f57063be5a05cc7cfc" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>mU6VlznzxUxshScB69xLM5jaqrA=</DigestValue></Reference></SignedInfo><SignatureValue>ltB09XgXLdzPXC6FYwvG53w5BeD/6j69UtccGk7Q1AZDwxFXBIEqJOhPAbOQ0+rPS/4L7GJCKn4A9yOfEBfao5WQwwUhs4Z/mHJPBSiB38ckNV7sFDpQ/mR5G9ITs+/4rDWUlGpsOBrxlGhG32c2EOuO8jkw1OWLO2wN7i9vdWA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>n8uUJtAkzHL07Y4N/UPgCu4HfvTxG15dHd7fK+4Z7jk1Lx7Kg5xG3USKT0QQfvb+7YWg6jkEwLUwy3JyCWyNBd7Ulc6Noav+HTxXcg4bDHVAmvlnQYgVf1g6kbv88W5xAh+rTKx2bAYGvGL97zriLkBQ6xMs//uWslt32pn4YjU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b0aada98334bdceb0127856c4cc5f33997954e99" Description="" Url=""><as:assemblyIdentity name="Boxing Round Interval WPF Browser Application.exe" version="1.0.0.0" publicKeyToken="d1977468b3c5326e" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-U4USUGC\vasil</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>TnjFjb/Yq9G5eZ6fn7AP2uA2Rbs=</DigestValue></Reference></SignedInfo><SignatureValue>WLPt6ix9X+ZgHIX2N3T0mmMm3AjkhYGlZzqGlLNGTqZ7CyF8E7HxbHEnQdlhSaWJr5grVwwq65r0NAFejTAKiDW6xoT4bcp9fgumn+F6LcfYzJ3IWWXCxvOTXSurjrRt2brHg+aFFgjxFc1N8mGdBE6V3/vRhjRFHn3E/mIPFac=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>n8uUJtAkzHL07Y4N/UPgCu4HfvTxG15dHd7fK+4Z7jk1Lx7Kg5xG3USKT0QQfvb+7YWg6jkEwLUwy3JyCWyNBd7Ulc6Noav+HTxXcg4bDHVAmvlnQYgVf1g6kbv88W5xAh+rTKx2bAYGvGL97zriLkBQ6xMs//uWslt32pn4YjU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQeAF0C9KK84lJiSq4Wy+BmjANBgkqhkiG9w0BAQUFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFUANABVAFMAVQBHAEMAXAB2AGEAcwBpAGwwHhcNMjQwMjIyMDcxOTUwWhcNMjUwMjIxMTMxOTUwWjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFUANABVAFMAVQBHAEMAXAB2AGEAcwBpAGwwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJ/LlCbQJMxy9O2ODf1D4AruB3708RteXR3e3yvuGe45NS8eyoOcRt1Eik9EEH72/u2FoOo5BMC1MMtycglsjQXe1JXOjaGr/h08V3IOGwx1QJr5Z0GIFX9YOpG7/PFucQIfq0ysdmwGBrxi/e864i5AUOsTLP/7lrJbd9qZ+GI1AgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAG13UZs8jJf6mxYDgH1ZKXSxuwS9feHVAeiRCivC7K72OH5a+YaifJiZLDmrgdWl5rSPy4IkzB2jP51r/HxNYdDTwJQzWZe5oqJDVMkkgw/DY+TfHE8cbhn319Dqu2A5PkrFQLzLKqtSnmuR8AM+4TTWDGlY67y8m8zgz+wD2R88=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
